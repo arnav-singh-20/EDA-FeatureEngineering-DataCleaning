@@ -13,3 +13,5 @@ The project demonstrates how to:
 -Work with real-world datasets in Pandas
 -Visualize distributions and relationships using Matplotlib & Seaborn
 -Organize multiple plots with subplot() for comparative analysis
+
+-Dataset link- https://raw.githubusercontent.com/krishnaik06/playstore-Dataset/main/googleplaystore.csv
